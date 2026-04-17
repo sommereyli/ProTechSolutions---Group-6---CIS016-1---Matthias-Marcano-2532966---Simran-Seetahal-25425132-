@@ -46,7 +46,7 @@ The application requires a local MySQL server (e.g., via XAMPP or MySQL Workbenc
 
 ## Testing Credentials
 
-To test the **Administrator/Technician** functionalities, please use the following hardcoded credentials on the Login screen:
+To test the **Administrator/Technician** functionalities, please use the following credentials on the Login screen:
 * **Username:** admin
 * **Password:** 123
 
