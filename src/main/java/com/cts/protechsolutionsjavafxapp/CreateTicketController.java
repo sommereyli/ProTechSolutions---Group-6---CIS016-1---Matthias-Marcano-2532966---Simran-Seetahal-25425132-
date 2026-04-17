@@ -92,13 +92,6 @@ public class CreateTicketController {
         }
     }
 
-    // Old placeholder button action for updating status
-    @FXML
-    public void handleUpdateStatus(ActionEvent event) {
-        lblStatus.setText("Update Status screen coming soon.");
-        lblStatus.setStyle("-fx-text-fill: white;");
-    }
-
     // Logs out and goes back to the main welcome screen
     @FXML
     public void handleLogout(ActionEvent event) throws IOException {
