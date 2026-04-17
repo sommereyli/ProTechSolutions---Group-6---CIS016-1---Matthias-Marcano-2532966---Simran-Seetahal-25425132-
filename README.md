@@ -33,7 +33,7 @@ The application requires a local MySQL server (e.g., via XAMPP or MySQL Workbenc
    * Create the `tickets` table.
    * Insert sample data (including Ticket IDs `PRO-3743` and `PRO-6665` for testing).
 
-*Note: The `DatabaseHandler.java` class is pre-configured to use the default local MySQL credentials (`username: root`, `password: ""`).*
+*Note: TheDatabaseHandler.javaclass is pre-configured to use the default local MySQL credentials (username: root,password: ""). If your local MySQL environment requires a password, please update thePASSWORDvariable in theDatabaseHandler.javaclass before running the application.*
 
 ### 2. Running the Application
 1. Clone or download this repository to your local machine.
