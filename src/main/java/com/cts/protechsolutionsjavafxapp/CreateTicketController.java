@@ -29,10 +29,6 @@ public class CreateTicketController {
     @FXML private TextArea txtIssue;
     @FXML private Label lblStatus;
 
-    // Global list to store tickets locally
-    // Kept this here just in case the customer search screen needs to read from it later
-    public static ArrayList<RepairTicket> globalTicketList = new ArrayList<>();
-
     // Runs when the generate ticket button is clicked
     @FXML
     public void handleGenerateTicket(ActionEvent event) {
