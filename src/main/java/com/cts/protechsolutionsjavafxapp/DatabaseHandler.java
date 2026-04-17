@@ -10,7 +10,7 @@ public class DatabaseHandler {
     // Database connection details including the server address and database name
     private static final String URL = "jdbc:mysql://127.0.0.1:3306/protech_db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true";
     private static final String USER = "root";
-    private static final String PASSWORD = "mysql";
+    private static final String PASSWORD = "";
 
     // Method to establish and return a connection to the database
     public static Connection getConnection() throws SQLException {
