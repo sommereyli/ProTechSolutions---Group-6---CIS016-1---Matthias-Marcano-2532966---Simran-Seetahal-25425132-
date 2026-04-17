@@ -3,8 +3,8 @@
 
 **Unit:** CIS016-1 / CIS096-1 – Principles of Programming & Data Structures  
 **Group 6 Members:** 
-* Matthias Marcano (ID: 2532966) - Backend & Logic Lead
-* Simran Seetahal (ID: 25425132) - UI & Testing Lead
+* Matthias Marcano (ID: 2532966) 
+* Simran Seetahal (ID: 25425132) 
 
 ---
 
