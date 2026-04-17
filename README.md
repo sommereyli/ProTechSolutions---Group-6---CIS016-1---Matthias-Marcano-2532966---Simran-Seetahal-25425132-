@@ -31,7 +31,7 @@ The application requires a local MySQL server (e.g., via XAMPP or MySQL Workbenc
 3. Execute the SQL script. This will automatically:
    * Create a database named `protech_db`.
    * Create the `tickets` table.
-   * Insert dummy data (including Ticket IDs `PRO-3743` and `PRO-6665` for immediate testing).
+   * Insert sample data (including Ticket IDs `PRO-3743` and `PRO-6665` for immediate testing).
 
 *Note: The `DatabaseHandler.java` class is pre-configured to use the default local MySQL credentials (`username: root`, `password: ""`).*
 
