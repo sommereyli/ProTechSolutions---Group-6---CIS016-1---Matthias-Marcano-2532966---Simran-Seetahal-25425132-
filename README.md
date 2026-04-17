@@ -20,7 +20,7 @@ The Device Repair Tracking System (DRTS) is a 2-tier Java application designed t
 
 ---
 
-## Setup & Installation Instructions (For Marking)
+## Setup & Installation Instructions 
 
 To run this application locally, please follow these steps:
 
