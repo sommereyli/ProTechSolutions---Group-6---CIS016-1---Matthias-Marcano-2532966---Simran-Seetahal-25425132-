@@ -1,5 +1,5 @@
 # Device Repair Tracking System (DRTS)
-**ProTechSolutions - "Repairs with Cares"**
+**ProTechSolutions - "Repair with Care"**
 
 **Unit:** CIS016-1 / CIS096-1 – Principles of Programming & Data Structures  
 **Group 6 Members:** 
