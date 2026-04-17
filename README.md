@@ -12,7 +12,7 @@
 The Device Repair Tracking System (DRTS) is a 2-tier Java application designed to digitize and streamline the repair workflow for local electronics shops. Built on an **MVC architecture**, the system replaces manual paper logs with a centralized MySQL database. It features secure staff authentication, automated cost calculation, and a customer-facing portal for real-time status tracking.
 
 ## Tech Stack
-* **Language:** Java (JDK 23)
+* **Language:** Java (JDK 21)
 * **Frontend:** JavaFX & FXML
 * **Database:** MySQL
 * **Connectivity:** JDBC (Java Database Connectivity)
